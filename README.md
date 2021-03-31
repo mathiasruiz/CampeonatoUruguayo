@@ -6,6 +6,8 @@
     <title>Campeonato Uruguayo </title>
     </head>
     <body>
+    <h1> Campeonato clausura 2021</h1>
+    <caption> Tabla de posiciones</caption>
     <table border ="1">
         <thead>
             <tr>
