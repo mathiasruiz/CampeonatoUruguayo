@@ -18,43 +18,43 @@
         </thead>
         <tbody>
             <tr>
-                <th></th>
+                <th>Nacional</th>
                 <th></th>
                 <th>34</th>
                 <th>1000</th>
             </tr>
                         <tr>
-                <th></th>
+                <th>Peñarol</th>
                 <th></th>
                 <th>20</th>
                 <th>1000</th>
             </tr>
                         <tr>
-                <th></th>
+                <th>Liverpool</th>
                 <th></th>
                 <th>30</th>
                 <th>1000</th>
             </tr>
                         <tr>
-                <th></th>
+                <th>Torque</th>
                 <th></th>
                 <th>19</th>
                 <th>1000</th>  
             </tr>
                         <tr>
-                <th></th>
+                <th>Plaza Colonia</th>
                 <th></th>
                 <th>28</th>
                 <th>1000</th>   
             </tr>
                         <tr>
-                <th></th>
+                <th>Rentista</th>
                 <th></th>
                 <th>23</th>
                 <th>1000</th>
             </tr>
                           <tr>
-                <th></th>
+                <th>Danubio</th>
                 <th></th>
                 <th>0</th>
                 <th>1000</th>  
