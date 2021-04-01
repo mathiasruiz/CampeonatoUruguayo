@@ -21,43 +21,43 @@
                 <th></th>
                 <th></th>
                 <th>34</th>
-                <th></th>
+                <th>1000</th>
             </tr>
                         <tr>
                 <th></th>
                 <th></th>
                 <th>20</th>
-                <th></th>
+                <th>1000</th>
             </tr>
                         <tr>
                 <th></th>
                 <th></th>
                 <th>30</th>
-                <th></th>
+                <th>1000</th>
             </tr>
                         <tr>
                 <th></th>
                 <th></th>
                 <th>19</th>
-                <th></th>  
+                <th>1000</th>  
             </tr>
                         <tr>
                 <th></th>
                 <th></th>
                 <th>28</th>
-                <th></th>   
+                <th>1000</th>   
             </tr>
                         <tr>
                 <th></th>
                 <th></th>
                 <th>23</th>
-                <th></th>
+                <th>1000</th>
             </tr>
                           <tr>
                 <th></th>
                 <th></th>
                 <th>0</th>
-                <th></th>  
+                <th>1000</th>  
             </tr>
         </tbody>
     </table>   
