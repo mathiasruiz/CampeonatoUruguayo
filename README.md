@@ -19,7 +19,7 @@
         <tbody>
             <tr>
                 <th>Liverpool</th>
-                <th>34</th>
+                <th>Hola</th>
                 <th>34</th>
                 <th>10</th>
             </tr>
