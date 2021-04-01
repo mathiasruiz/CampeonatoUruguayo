@@ -18,43 +18,43 @@
         </thead>
         <tbody>
             <tr>
-                <th>ALiverpool</th>
+                <th>ALiverpoolA</th>
                 <th>34</th>
                 <th>34</th>
                 <th>13</th>
             </tr>
                         <tr>
-                <th>APenarol</th>
+                <th>APenarolA</th>
                 <th>29</th>
                 <th>20</th>
                 <th>12</th>
             </tr>
                         <tr>
-                <th>ATorque</th>
+                <th>ATorqueA</th>
                 <th>26</th>
                 <th>30</th>
                 <th>14</th>
             </tr>
                         <tr>
-                <th>ANacional</th>
+                <th>ANacionalA</th>
                 <th>26</th>
                 <th>19</th>
                 <th>16</th>  
             </tr>
                         <tr>
-                <th>APlaza Colonia</th>
+                <th>APlaza ColoniaA</th>
                 <th>25</th>
                 <th>28</th>
                 <th>16</th>   
             </tr>
                         <tr>
-                <th>ABoston River</th>
+                <th>ABoston RiverA</th>
                 <th>22</th>
                 <th>23</th>
                 <th>26</th>
             </tr>
                           <tr>
-                <th>ADanubio</th>
+                <th>ADanubioA</th>
                 <th>0</th>
                 <th>0</th>
                 <th>0</th>  
