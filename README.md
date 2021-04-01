@@ -18,46 +18,46 @@
         </thead>
         <tbody>
             <tr>
-                <th>Liverpool</th>
-                <th>00</th>
+                <th></th>
+                <th></th>
                 <th>34</th>
-                <th>FEDE</th>
+                <th></th>
             </tr>
                         <tr>
-                <th>Penarol</th>
-                <th>00</th>
+                <th></th>
+                <th></th>
                 <th>20</th>
-                <th>FEDE</th>
+                <th></th>
             </tr>
                         <tr>
-                <th>Torque</th>
-                <th>39</th>
+                <th></th>
+                <th></th>
                 <th>30</th>
-                <th>FEDE</th>
+                <th></th>
             </tr>
                         <tr>
-                <th>Nacional</th>
-                <th>00</th>
+                <th></th>
+                <th></th>
                 <th>19</th>
-                <th>GALLINA</th>  
+                <th></th>  
             </tr>
                         <tr>
-                <th>Plaza Colonia</th>
-                <th>00</th>
+                <th></th>
+                <th></th>
                 <th>28</th>
-                <th>FEDE</th>   
+                <th></th>   
             </tr>
                         <tr>
-                <th>Boston River</th>
-                <th>00</th>
+                <th></th>
+                <th></th>
                 <th>23</th>
-                <th>FEDE</th>
+                <th></th>
             </tr>
                           <tr>
-                <th>Danubio</th>
-                <th>00</th>
+                <th></th>
+                <th></th>
                 <th>0</th>
-                <th>FEDE</th>  
+                <th></th>  
             </tr>
         </tbody>
     </table>   
