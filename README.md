@@ -19,43 +19,43 @@
         <tbody>
             <tr>
                 <th></th>
-                <th></th>
+                <th>Mathi</th>
                 <th>34</th>
                 <th></th>
             </tr>
                         <tr>
                 <th></th>
-                <th></th>
+                <th>Mathi</th>
                 <th>20</th>
                 <th></th>
             </tr>
                         <tr>
                 <th></th>
-                <th></th>
+                <th>Mathi</th>
                 <th>30</th>
                 <th></th>
             </tr>
                         <tr>
                 <th></th>
-                <th></th>
+                <th>Mathi</th>
                 <th>19</th>
                 <th></th>  
             </tr>
                         <tr>
                 <th></th>
-                <th></th>
+                <th>Mathi</th>
                 <th>28</th>
                 <th></th>   
             </tr>
                         <tr>
                 <th></th>
-                <th></th>
+                <th>Mathi</th>
                 <th>23</th>
                 <th></th>
             </tr>
                           <tr>
                 <th></th>
-                <th></th>
+                <th>Mathi</th>
                 <th>0</th>
                 <th></th>  
             </tr>
