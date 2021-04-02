@@ -19,43 +19,43 @@
         <tbody>
             <tr>
                 <th>Fran</th>
-                <th></th>
+                <th>99</th>
                 <th>11</th>
                 <th>FEDE</th>
             </tr>
                         <tr>
                 <th>Fran</th>
-                <th></th>
+                <th>99</th>
                 <th>11</th>
                 <th>FEDE</th>
             </tr>
                         <tr>
                 <th>Fran</th>
-                <th></th>
+                <th>99</th>
                 <th>11</th>
                 <th>FEDE</th>
             </tr>
                         <tr>
                 <th>Fran</th>
-                <th></th>
+                <th>99</th>
                 <th>11</th>
                 <th>FEDE</th>
             </tr>
                         <tr>
                 <th>Fran</th>
-                <th></th>
+                <th>99</th>
                 <th>11</th>
                 <th>FEDE</th>
             </tr>
                         <tr>
                 <th>Fran</th>
-                <th></th>
+                <th>99</th>
                 <th>11</th>
                 <th>FEDE</th>
             </tr>
                           <tr>
                 <th>Fran</th>
-                <th></th>
+                <th>99</th>
                 <th>11</th>
                 <th>FEDE</th>  
             </tr>
