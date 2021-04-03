@@ -6,6 +6,7 @@
     <title>Campeonato Uruguayo </title>
     </head>
     <body>
+    <h1>Tabla de posiciones</h1>
     <caption>Tabla de posiciones</caption>
     <table border ="1">
         <thead>
