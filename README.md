@@ -7,6 +7,7 @@
     </head>
     <body>
     <h1>Tabla de posiciones</h1>
+    <u>Hola</u>
     <caption>Tabla de posiciones</caption>
     <table border ="1">
         <thead>
