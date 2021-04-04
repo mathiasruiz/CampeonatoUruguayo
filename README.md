@@ -25,3 +25,9 @@
                 <th>22</th>
                 <th>21</th>
             </tr>
+                        <tr>
+                <th>Penarol</th>
+                <th>23</th>
+                <th>22</th>
+                <th>21</th>
+            </tr>
