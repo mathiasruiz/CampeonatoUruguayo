@@ -27,9 +27,9 @@
             </tr>
                     <tr>
                 <th>Torque</th>
-                <th></th>
-                <th></th>
-                <th></th>
+                <th>100</th>
+                <th>100</th>
+                <th>0</th>
             </tr>
                         </tr>
                     <tr>
