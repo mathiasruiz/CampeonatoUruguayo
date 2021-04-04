@@ -28,10 +28,10 @@
        </tbody>
             <tbody>
                     <tr>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
+                <th>0</th>
+                <th>0</th>
+                <th>0</th>
+                <th>0</th>
             </tr>
        </tbody>
     </table>   
