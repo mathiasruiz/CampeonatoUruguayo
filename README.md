@@ -34,9 +34,9 @@
                         </tr>
                     <tr>
                 <th>Peniarol</th>
-                <th></th>
-                <th></th>
-                <th></th>
+                <th>45</th>
+                <th>45</th>
+                <th>45</th>
             </tr>
        </tbody>
     </table>   
