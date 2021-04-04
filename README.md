@@ -21,9 +21,9 @@
         <tbody>
                     <tr>
                 <th>Nacional</th>
-                <th></th>
-                <th></th>
-                <th></th>
+                <th>34</th>
+                <th>23</th>
+                <th>13</th>
             </tr>
                     <tr>
                 <th>Torque</th>
