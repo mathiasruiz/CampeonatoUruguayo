@@ -21,17 +21,22 @@
         <tbody>
                     <tr>
                 <th>Nacional</th>
-                <th>100</th>
-                <th>100</th>
-                <th>100</th>
+                <th></th>
+                <th></th>
+                <th></th>
             </tr>
-       </tbody>
-            <tbody>
                     <tr>
-                <th>0</th>
-                <th>0</th>
-                <th>0</th>
-                <th>0</th>
+                <th>Torque</th>
+                <th></th>
+                <th></th>
+                <th></th>
+            </tr>
+                        </tr>
+                    <tr>
+                <th>Peniarol</th>
+                <th></th>
+                <th></th>
+                <th></th>
             </tr>
        </tbody>
     </table>   
