@@ -20,48 +20,9 @@
         </thead>
         <tbody>
             <tr>
-                <th>Fran</th>
-                <th>00</th>
-                <th>11</th>
-                <th>FEDE</th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
             </tr>
-                        <tr>
-                <th>Fran</th>
-                <th>00</th>
-                <th>11</th>
-                <th>FEDE</th>
-            </tr>
-                        <tr>
-                <th>Fran</th>
-                <th>00</th>
-                <th>11</th>
-                <th>FEDE</th>
-            </tr>
-                        <tr>
-                <th>Fran</th>
-                <th>00</th>
-                <th>11</th>
-                <th>FEDE</th>
-            </tr>
-                        <tr>
-                <th>Fran</th>
-                <th>00</th>
-                <th>11</th>
-                <th>FEDE</th>
-            </tr>
-                        <tr>
-                <th>Fran</th>
-                <th>00</th>
-                <th>11</th>
-                <th>FEDE</th>
-            </tr>
-                          <tr>
-                <th>Fran</th>
-                <th>00</th>
-                <th>11</th>
-                <th>FEDE</th>  
-            </tr>
-        </tbody>
-    </table>   
-    </body>
-</html>
+              
