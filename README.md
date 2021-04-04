@@ -20,10 +20,10 @@
         </thead>
         <tbody>
                     <tr>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
+                <th>Nacional</th>
+                <th>100</th>
+                <th>100</th>
+                <th>100</th>
             </tr>
        </tbody>
             <tbody>
