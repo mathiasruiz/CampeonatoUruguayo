@@ -1,44 +1,21 @@
 # CampeonatoUruguayo
 
-<!doctype html>
-<html>
-    <head>
-    <title>Campeonato Uruguayo </title>
-    </head>
-    <body>
-    <h1>Tabla de posiciones</h1>
-    <u>Hola</u>
-    <caption>Tabla de posiciones</caption>
-    <table border ="1">
-        <thead>
-            <tr>
-                <th>Equipos</th>
-                <th>Puntos </th>
-                <th>Goles a favor</th>
-                <th>Goles en contra</th>
-            </tr>
-        </thead>
-        <tbody>
-                    <tr>
-                <th>Nacional</th>
-                <th>34</th>
-                <th>23</th>
-                <th>13</th>
-            </tr>
-                    <tr>
-                <th>Torque</th>
-                <th>100</th>
-                <th>100</th>
-                <th>0</th>
-            </tr>
-                        </tr>
-                    <tr>
-                <th>Peniarol</th>
-                <th>45</th>
-                <th>45</th>
-                <th>45</th>
-            </tr>
-       </tbody>
-    </table>   
-    </body>
-</html>
+Ejercicio para practicar.
+
+Consigna:
+Cada equipo es el encargado de rellenar los datos correspondientes según como haya terminado en la tabla  verdadera del campeonato clausura 2020.
+Cada grupo debe crear su propia rama para trabajar con los datos.
+ATENCION: "solo deben modificar su información en los espacios de su equipo"
+
+
+Les recordamos los pasos para hacer un merge:
+1. 
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
